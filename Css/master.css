@@ -1,12 +1,12 @@
 header{
     background-color: #3d4a59;
-    border-radius: 0 0 70px 70px;
+    border-radius: 70px 70px 70px 70px;
     padding: 40px;
     margin: -7px 0px 10px;
 }
 h1{
     text-align: center;
-    color: white;
+    color: gainsboro;
     margin-top: -25px;
     font-family: anton;
     font-size: 50px;
@@ -25,12 +25,12 @@ ul{
 
 }
 .mode{
-    color: white;
+    color: black;
     font-weight: bold;
 }
 ul a{
     text-decoration: none;
-    color: white;
+    color: coral;
     font-weight: bold;
 }
 .mode:hover{
@@ -43,31 +43,34 @@ ul a:hover{
 }
 .one{
     padding: 10px;
-    background-color: #3d4a59;
+    background-color: cornsilk;
     margin-bottom: 10px;
+    border-radius: 50px;
 }
 h2{
     text-align: center;
     font-family: jomhuria;
     font-size: 80px;
     font-weight: bold;
-    background-color: darkred;
+    background-color: salmon;
     border-radius: 17px;
     width: 60%;
     margin: 20px auto 0;
     padding: 20px;
-    color: white;
+    color: midnightblue;
 }
 .right-section p{
     font-family: anton;
     font-size: 50px;
     font-weight: bold;
+    color: midnightblue;
 }
 .left-section p{
     font-family: jomhuria;
     font-size: 80px;
     font-weight: 400;
     font-weight: bold;
+    color: midnightblue;
 }
 .flex{
     display: flex;
@@ -89,7 +92,8 @@ h2{
 }
 .two{
     padding: 10px;
-    background-color: bisque;
+    background-color: grey;
+    border-radius: 50px;
 }
 dt{
     text-align: center;
@@ -105,20 +109,21 @@ dd{
 }
 .three{
     margin: 10px;
-    color: firebrick
+    color: darkkhaki;
 }
 .four{
     margin: 10px;
-    color: rosybrown
+    color: darkseagreen;
 }
 .five{
     margin: 10px;
-    color: darkviolet
+    color: coral;
 }
 footer{
     display: flex;
     justify-content: space-around;
-    background-color: #3d4a59;
+    background-color: midnightblue;
+    border-radius: 30px;
 }
 .seven p{
     text-align: center;
@@ -127,7 +132,7 @@ footer{
     font-family: arial;
     font-weight: bold;
     font-size: 30px;
-    color: teal;
+    color: snow;
 }
 .seven a{
     text-decoration: none;
@@ -137,12 +142,13 @@ footer{
     font-weight: bold;
     margin-top: 5px;
     padding: 20px;
-    color: khaki
+    color: lightcoral
 }
 h3{
     font-family: jomhuria;
     font-size: 80px;
     font-weight: bold;
+    color:midnightblue
 }
 .my-img{
     border-radius: 50%;
